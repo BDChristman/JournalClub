@@ -1,2 +1,18 @@
+widget: hero  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+weight: 10  # Order that this section will appear.
+title: |
+  Wowchemy  
+  Research Group
+hero_media: welcome.jpg
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+  # Add custom styles
+  css_style:
+  css_class:
+---
+
+<br> 
 
 The University of Mississippi Medical Center's Biostatistics and Data Science Journal Club was started to allow the faculty and students to share information about their research. 
