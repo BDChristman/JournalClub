@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The Biostatistics and Data Science Journal Club was started so that students and faculty could share their research. The Journal Club currently meets once a week. At each meeting, someone presents their research and receives feedback and opens the door for collaboration.
+The Biostatistics and Data Science Journal Club was started so that students and faculty could share, receive feedback, and open the door to collaboration on their research. The Journal Club currently meets once a week.
