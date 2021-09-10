@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="https://calendly.com/bdsjournalclub/60min" cta_text="Sign up to present →" %}}
