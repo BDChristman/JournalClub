@@ -28,4 +28,4 @@ content:
 design:
   columns: '1'
 ---
-If you are interested in or have questions about the Biostatistics and Data Science Journal Club, please reach out to Dr. Rajesh Talluri at the email listed below.   
+If you are interested in or have questions about the Biostatistics and Data Science Journal Club, please contact us using the items below. We will get back to you as soon as we can! 
