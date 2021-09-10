@@ -20,5 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-
+The Biostatistics and Data Science Journal Club was started so that students and faculty could share their research. The Journal Club currently meets once a week. At each meeting, someone presents their research and receives feedback and opens the door for collaboration.
