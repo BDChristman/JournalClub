@@ -35,7 +35,7 @@ contact_links:
 main_menu:
   enable: true
   align: r
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
@@ -98,7 +98,7 @@ search:
     app_id: ''
     api_key: ''
     index_name: ''
-    show_logo: false
+    show_: false
 map:
   provider: mapnik
   api_key: ''
