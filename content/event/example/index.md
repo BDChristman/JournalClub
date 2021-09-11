@@ -29,7 +29,7 @@ publishDate: "2017-01-01T00:00:00Z"
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ""
