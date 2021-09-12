@@ -28,8 +28,8 @@ publishDate: "2017-01-01T00:00:00Z"
 # Is this a featured talk? (true/false)
 featured: false
 
-image: Christman.jpg
-  caption: ''
+image: 
+  caption: 'Christman.jpg'
   focal_point: Right
 
 # url_code: ""
