@@ -5,8 +5,8 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 0  # Order that this section will appear.
-title: 
+weight: 10  # Order that this section will appear.
+title: Biostatistics and Data Science Journal Club
 hero_media: picture.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
