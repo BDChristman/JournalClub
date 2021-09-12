@@ -28,7 +28,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
+image: Christman.jpg
   caption: ''
   focal_point: Right
 
