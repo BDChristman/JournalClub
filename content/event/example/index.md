@@ -29,7 +29,7 @@ publishDate: "2017-01-01T00:00:00Z"
 featured: false
 
 image: 
-  caption: '(http://triumphyouthservices.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-03-at-11.16.14-AM.png)'
+  caption: '(Image credit: [**Unsplash**](http://triumphyouthservices.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-03-at-11.16.14-AM.png)'
   focal_point: Right
 
 # url_code: ""
