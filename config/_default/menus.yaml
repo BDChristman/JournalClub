@@ -4,6 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Events
-    url: event
+  - name: Schedule
+    url: schedule
     weight: 20
